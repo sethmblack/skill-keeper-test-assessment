@@ -4,7 +4,7 @@ description: Evaluate individual team members or teams against the Netflix keepe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4342
+  version: 1.0.4343
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - keeper-test-assessment
